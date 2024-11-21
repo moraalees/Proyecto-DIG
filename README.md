@@ -1,2 +1,2 @@
 # Proyecto-DIG
-Proyecto Digitalización
+Proyecto Digitalización Cristian, Carlos, Fran, Juanma.
