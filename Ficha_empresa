@@ -1,13 +1,17 @@
 
 | Tamaño       | Productos             | Clientes     | Recursos          | Marcas         | Proposito                |
 | ------------ | --------------------- | ------------ | ----------------- | -------------- | ------------------------ |
-| _400 000 m³_ | Ropa                  | Mercadona    | Camiones          | Hacendado      | Controlar la logística   |
-|              | Comida                | Carrefour    | Camiones cisterna | Galleteca      | Transporte de mercancias |
+| _400 000 m3_ | Ropa                  | Mercadona    | Camiones          | Hacendado      | Controlar la logística   |
+|  De almacén  | Comida                | Carrefour    | Camiones cisterna | Galleteca      | Transporte de mercancias |
 |              | Muebles               | Parfois      | Transportines     | Galletas Nuria | Alcance nacional         |
-|              | Materia prima         | Bershka      | Gruas             | Kellogs        |                          |
-|              | Máquinas industriales | Stradivarius | Carretillas       | Colacao        |                          |
+|    120 m2    | Materia prima         | Bershka      | Gruas             | Kellogs        |                          |
+|  De oficina  | Máquinas industriales | Stradivarius | Carretillas       | Colacao        |                          |
 |              | Productos frágiles    |              |                   | Cocacola       |                          |
 |              | Máquinas expendedoras |              |                   | Nike           |                          |
 |              | Televisores           |              |                   | Adidas         |                          |
 
 La empresa busca servir como intermediario para transportar las mercancias a los distintos clientes, buscando la eficiencia y la satisfaccion de los clientes.
+Usa recursos como varios camiones de reparto de distintos tamaños que se adaptan a los pedidos y mercancia.
+Teniendo como clientes muchos supermercados y tiendas de ropa de renombre.
+Goza de un almacen de 400.000 metros cubicos y unas oficinas de 120 metros cuadrados.
+Al ser una empresa centrada en el transporte no produce mercancías,sólo las recibe,almacena y entrega a los clientes solicitantes.
