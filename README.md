@@ -9,7 +9,7 @@ Objetivos del proyecto
 · Diseñar una solución de transformación digital de extremo a extremo mediante IA para una empresa de un sector concreto.
 
 
-FUNCIÓN DE CADA TRABAJADOR:
+# FUNCIÓN DE CADA TRABAJADOR:
 · Cristian: Listado de las tecnologías a aplicar para la mejora, README.
 
 · Carlos: Diagrama Mermaid, la ficha de la empresa Caramé Logistics.
